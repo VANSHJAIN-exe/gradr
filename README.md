@@ -1,2 +1,2 @@
-# jeta
-jeta color grading software
+#JETA
+AI COLOR GRADING SOFTWARE.
